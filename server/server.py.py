@@ -114,4 +114,3 @@ if __name__ == "__main__":
     while True:
         client, addr = socket.accept()
         handle(client, addr)
-
